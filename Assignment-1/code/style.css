@@ -7,19 +7,19 @@
   background-color: rgb(238, 205, 106);
   margin: 10px;
   flex: 1 1 auto;
-  height: 180px;
+  height: 185px;
 }
 
 .pink .col {
   background-color: rgb(224, 77, 101);
-  height: 180px;
+  height: 185px;
   margin: 10px;
 }
 
 .blue .col {
   background-color: rgb(86, 92, 167);
   margin: 10px;
-  height: 180px;
+  height: 185px;
   flex: 1 1 auto;
 }
 
