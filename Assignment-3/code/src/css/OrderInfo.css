@@ -1,0 +1,25 @@
+.order-info {
+  margin: 40px 15px 0px 15px;
+  border: 1px solid rgb(97, 96, 96);
+  background-color: rgb(161, 156, 156);
+  display: flex;
+  padding: 20px 0px 0px 20px;
+}
+.radio {
+  margin-top: 10px;
+}
+.margin-div {
+  margin-left: 30%;
+}
+.order-info label,
+p {
+  font-weight: 600;
+}
+input[type="radio"] {
+  width: 20px;
+  height: 30px;
+}
+label {
+  position: relative;
+  bottom: 10px;
+}
