@@ -1,0 +1,47 @@
+.card {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+.cards {
+  border: 1px solid;
+}
+.name {
+  padding: 15px 15px 0px 15px;
+}
+.location {
+  display: block;
+  color: rgb(161, 160, 160);
+}
+.dot {
+  float: right;
+  position: relative;
+  bottom: 30px;
+}
+img {
+  object-fit: fill;
+  width: 600px;
+}
+.fontAwesome {
+  padding: 10px;
+}
+.like {
+  margin-right: 10px;
+}
+.text-like {
+  position: relative;
+  bottom: 25px;
+  left: 20px;
+}
+.date {
+  position: relative;
+  left: 500px;
+  bottom: 100px;
+}
+.discription {
+  font-weight: bold;
+  position: relative;
+  bottom: 60px;
+  padding-left: 10px;
+}

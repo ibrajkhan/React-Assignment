@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Siva",
+      "location": "Bengaluru",
+      "likes": 64,
+      "description": "Kick start your career",
+      "PostImage": "https://images.pexels.com/photos/68147/waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "date": "10 Jan 2021"
+    },
+    {
+      "name": "Neeraj",
+      "location": "Pune",
+      "likes": 30,
+      "description": "Sample Description",
+      "PostImage": "https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "date": "20 Feb 2022"
+    },
+    {
+      "name": "Rahul",
+      "location": "Hyderabad",
+      "likes": 30,
+      "description": "Sample Description for Post",
+      "PostImage": "https://images.pexels.com/photos/693521/pexels-photo-693521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "date": "13 Feb 2022"
+    }
+  ]
+}
